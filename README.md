@@ -11,7 +11,7 @@ SOLID is an acronym for 5 design principles of object-oriented programs (OOP) th
 - ISP - Interface segregation principle
 - DIP - Dependency inversion principle
 
-All projects hold examples without SOLID in the normal namespace and with it on the same namespace **.WithSOLID**
+All projects hold examples without SOLID in the normal namespace and with it on the same namespace **.WithSOLID** included IoC to use Inversion of Control
 
 **Objectives: Create a Product and record its Activity**
 
