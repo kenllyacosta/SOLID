@@ -1,6 +1,8 @@
 # SOLID
 This project will store all you need to implement SOLID principles.
 
+*If you to know about Clean Architecture, refer to another repo which talks about [Clean Architecture](https://github.com/kenllyacosta/Clean-Architecture)*
+
 SOLID is an acronym for 5 design principles of object-oriented programs (OOP) that result in readable, adaptable, and scalable code. SOLID can be applied to any OOP program, this repo contains examples using C#.
 
 ## SOLID principles
